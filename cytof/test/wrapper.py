@@ -1,6 +1,6 @@
-__author__ = "Myles Köster"
-__copyright__ = "Copyright 2016, Johannes Köster"
-__email__ = "koester@jimmy.harvard.edu"
+__author__ = "Myles Kim"
+__copyright__ = "Copyright 2024, Myles Kim"
+__email__ = "mkim@mkim.edu"
 __license__ = "MIT"
 
 
