@@ -1,4 +1,4 @@
-__author__ = Myles Kim"
+__author__ = "MylesKim"
 __copyright__ = "None"
 __email__ = "none@gmail.com"
 __license__ = "None"
